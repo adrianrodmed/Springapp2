@@ -15,8 +15,8 @@
 		<p>Esto es un ejemplo de una aplicación de Spring</p>
 <%-- Redirected because we can't set the welcome page to a virtual URL. --%>
 <%-- <c:redirect url="/hello.htm"/> --%>
-		<a href="hello.htm">Pinche aquí para recibir un saludo</a><br>
-		<a href="servicios.htm">Pinche aquí para ver nuestros serivicios</a>
+		<a class="btn btn-primary" href="hello.htm" role="button">Pinche aquí para recibir un saludo</a><br>
+		<a class="btn btn-success" href="servicios.htm" role="button">Pinche aquí para ver nuestros servicios</a>
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>

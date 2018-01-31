@@ -11,7 +11,7 @@
 		<title>Ejemplo de una Aplicación de Spring</title>
 	</head>
 	<body style="text-align: center;">
-		<h1>Servicios de Sping</h1>
+		<h1>Servicios de Spring</h1>
 		<p>Gracias. <c:out value="${minombre}"/></p>
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
